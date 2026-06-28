@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang Web Cá Nhân</title>
+</head>
+<body>
+
+    <header>
+        <h1>Chào mừng đến với trang web của tôi</h1>
+    </header>
+
+    <main>
+        <h2>Giới thiệu</h2>
+        <p>Tôi là sinh viên yêu thích công nghệ, lập trình và học hỏi những điều mới.</p>
+
+        <h2>Sở thích của tôi</h2>
+        <ul>
+            <li>Lập trình</li>
+            <li>Đọc sách</li>
+            <li>Chơi thể thao</li>
+        </ul>
+
+        <h2>Hình ảnh yêu thích</h2>
+
+        <img
+            src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4"
+            alt="Máy tính đang hiển thị mã lập trình"
+            width="300">
+
+        <img
+            src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+            alt="Phong cảnh núi non và bầu trời xanh"
+            width="300">
+
+        <img
+            src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f"
+            alt="Nhóm sinh viên đang học tập cùng nhau"
+            width="300">
+
+        <h2>Liên kết hữu ích</h2>
+        <p>
+            Truy cập
+            <a href="https://www.freecodecamp.org" target="_blank">
+                FreeCodeCamp
+            </a>
+            để học lập trình miễn phí.
+        </p>
+    </main>
+
+</body>
+</html>
